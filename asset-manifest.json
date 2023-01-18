@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tasbeeh-counter/static/css/main.a0e0e741.css",
+    "main.js": "/tasbeeh-counter/static/js/main.93b3a20d.js",
+    "static/js/787.5e676c17.chunk.js": "/tasbeeh-counter/static/js/787.5e676c17.chunk.js",
+    "index.html": "/tasbeeh-counter/index.html",
+    "main.a0e0e741.css.map": "/tasbeeh-counter/static/css/main.a0e0e741.css.map",
+    "main.93b3a20d.js.map": "/tasbeeh-counter/static/js/main.93b3a20d.js.map",
+    "787.5e676c17.chunk.js.map": "/tasbeeh-counter/static/js/787.5e676c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0e0e741.css",
+    "static/js/main.93b3a20d.js"
+  ]
+}
